@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar() {
   
-  let nav_resim=document.querySelector(".nav-resim");
+  
 
   window.onscroll=()=>{
     navFunction();
