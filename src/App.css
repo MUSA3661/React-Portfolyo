@@ -214,7 +214,7 @@ animation: baslık 3s infinite linear alternate;
 }
 /* !section3 */
 .section3-kart{
-    width: 550px;
+    width: 100%;
     height: 450px;
     overflow: hidden;
     position: relative;
