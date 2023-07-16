@@ -12,7 +12,7 @@ export default function Section1() {
                 <span class="section1-text">Ben</span>,Kimim ?
               </h5>
               <p class="card-text text-capitalize fs-5">
-                Hayalleri uğruna savaşan bir kardeşiniz
+                Genel Olarak....
               </p>
               <p class="card-subtitle mb-2 text-muted ">
                Adım Musa 29 yaşındayım . Kars'ta yaşıyorum mobilya sektörüyle uğraşıyorum ve yazılımı seviyorum kendi çabalarımla birşeyler öğrenmeye çalışıyorum . Yazlım benim için bir bulmaca gibi zevk alıyorum hataları çözmeye çalışırken beni kendine çekiyor ve bende daha profesyonel bir kursa kayıt oldum 6 ay gibi bir eğitim sürecim oldu kendime birşeyler kattığıma inanıyorum . Sevdiğim işi yapmak istiyorum ve kendimi daha ilerilere taşımak istiyorum kısacası öğrenmeye istekli bir kardeşinizim.. :)
