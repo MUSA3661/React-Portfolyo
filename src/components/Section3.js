@@ -33,12 +33,12 @@ export default function Section3() {
       <div class="row">
         <div class="section3-responsive col-md-6 mb-5 ">
           <div class="section3-kart mx-auto">
-            <img src="img/Rondom-web-site.jpg" alt="şirket-klon"/>
+            <img src="img/e-ticarett.png" alt="E-Ticaret"/>
             <div class="overlay">
               <div class="overlay-text">
-                <h2>ŞİRKET-KLON</h2>
-                <p>HTML-CSS kullanırak yaptığım proje</p>
-                <a href="#bos">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
+                <h2>E-Ticaret</h2>
+                <p>HTML-CSS-JS kullanırak yaptığım proje</p>
+                <a href="https://musa3661.github.io/E-Ticaret/">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
               </div>
             </div>
           </div>
@@ -50,7 +50,7 @@ export default function Section3() {
               <div class="overlay-text">
                 <h2>YEMEK-KLON</h2>
                 <p>HTML-CSS kullanırak yaptığım proje</p>
-                <a href="#bos">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
+                <a href=" https://musa3661.github.io/Yemek-sitesi-static/">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
               </div>
             </div>
           </div>
