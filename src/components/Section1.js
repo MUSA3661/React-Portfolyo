@@ -12,17 +12,17 @@ export default function Section1() {
                 <span class="section1-text">Ben</span>,Kimim ?
               </h5>
               <p class="card-text text-capitalize fs-5">
-                Genel Olarak....llllll
+                Genel Olarak...
               </p>
               <p class="card-subtitle mb-2 text-muted ">
                Adım Musa 29 yaşındayım . Kars'ta yaşıyorum mobilya sektörüyle uğraşıyorum ve yazılımı seviyorum kendi çabalarımla birşeyler öğrenmeye çalışıyorum . Yazlım benim için bir bulmaca gibi zevk alıyorum hataları çözmeye çalışırken beni kendine çekiyor ve bende daha profesyonel bir kursa kayıt oldum 6 ay gibi bir eğitim sürecim oldu kendime birşeyler kattığıma inanıyorum . Sevdiğim işi yapmak istiyorum ve kendimi daha ilerilere taşımak istiyorum kısacası öğrenmeye istekli bir kardeşinizim.. :)
               </p>
-              <button
-                type="button"
-                class="section1-button rounded-4 border-danger"
-              >
-                CV GÖZAT
-              </button>
+              // <button
+              //   type="button"
+              //   class="section1-button rounded-4 border-danger"
+              // >
+              //   CV GÖZAT
+              // </button>
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ export default function Section1() {
                   >
                 </li>
                 <li class="mb-2">
-                  YAŞADIĞI-İL:<span class="text-muted ms-2">Kars/Merkez</span>
+                  YAŞADIĞI-İL:<span class="text-muted ms-2">İstanbul/Bahçelievler</span>
                 </li>
                 <li class="mb-2">
                   MEMLEKETİ:<span class="text-muted ms-2">Trabzon</span>
@@ -55,8 +55,7 @@ export default function Section1() {
                 </li>
                 <li class="mb-2">
                   ADRESS:<span class="text-muted text-capitalize ms-2"
-                    >örnek mah.ali gaffar okkan bulvarı.ayka gold sitesi kat:2
-                    daire:5</span
+                    >Koca Sinan Mah. Kuşçu Sok. 34186 Erdem Park Evleri B Blok Daire: 18 Bahçelievler / İstanbul</span
                   >
                 </li>
               </ul>
