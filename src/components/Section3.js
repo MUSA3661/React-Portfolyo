@@ -12,7 +12,7 @@ export default function Section3() {
                 <div class="overlay-text">
                   <h2>EXXEN-KLON</h2>
                   <p>HTML-CSS-BOOTSTRAP kullanırak yaptığım proje</p>
-                  <a href="#bos">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
+                  <a href="https://musa3661.github.io/Exxen-Tv-Static/">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
                 </div>
               </div>
             </div>
@@ -24,7 +24,7 @@ export default function Section3() {
                 <div class="overlay-text">
                   <h2>NETFLİX-KLON</h2>
                   <p>HTML-CSS-BOOTSTRAP kullanırak yaptığım proje</p>
-                  <a href="#bos">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
+                  <a href=" https://musa3661.github.io/Netflix-static/">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
                 </div>
               </div>
             </div>
