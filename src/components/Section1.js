@@ -15,7 +15,9 @@ export default function Section1() {
                 Genel Olarak...
               </p>
               <p class="card-subtitle mb-2 text-muted ">
-               Adım Musa 29 yaşındayım. Kars'ta yaşıyorum mobilya sektörüyle uğraşıyorum ve yazılımı seviyorum kendi çabalarımla birşeyler öğrenmeye çalışıyorum. Yazlım benim için bir bulmaca gibi zevk alıyorum hataları çözmeye çalışırken beni kendine çekiyor ve bende daha profesyonel bir kursa kayıt oldum 6 ay gibi bir eğitim sürecim oldu kendime birşeyler kattığıma inanıyorum . Sevdiğim işi yapmak istiyorum ve kendimi daha ilerilere taşımak istiyorum kısacası öğrenmeye istekli bir kardeşinizim.. :)
+              Bilgisayar başında uzun vakit geçirmeyi ve sürekli yeni şeyler öğrenmeği seven biriyim. İlgimi çeken konuların , öğrendiğim bilgilerin beni yazılım eksenine kaydırdığını farkettiğim anda kendimi  kod yazarken buldum. Bunun üzerine , bir yıl boyunca Udemy ve Youtube gibi platformlardan yazılımla ilgili eğitimler almaya başladım .Daha sonrasında bu hobimin işim olmasına karar verdim.  Daha profesyonel bir başlangıç için Neos Yazılım Eğitim ve Akademi bünyesindeki , FullStack Web Developer Kursuna katıldım. Bu süreçte araştırma, yazılım geliştirme ve sorunlara pratik çözümler üretebilme yeteneklerini edindim .  Yeni şeyler öğrenmeyi, yeteneklerimi geliştirmeyi çok önemsiyor, bu amaçla insan ilişkilerinin öğreticiliğinden faydalanmak gerektiğini düşünüyorum. Bu iş pozisyonunda yeteneklerim ve çalışma disiplinim ile katkı sağlayabileceğim noktasında şüphem yok.
+   CV mi incelemeye vakit ayırdığınız için teşekkür ederim.
+Yakın zamanda sizden olumlu haberler almayı diliyorum.
               </p>
             
             </div>
