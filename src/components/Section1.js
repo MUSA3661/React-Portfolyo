@@ -82,21 +82,10 @@ export default function Section1() {
                 <div class="mb-4 text-center">
                   <i class="fa-brands fa-connectdevelop fs-2 text-danger"></i>
                   <h4>Web-Developer</h4>
-                  <p class="text-muted">Olma Yolunda İlerliyoruz</p>
+                  <p class="text-muted"></p>
                   <hr style={{color:"red",width:"80%"}} class="m-auto "/>
                 </div>
-                <div class="mb-4 text-center">
-                  <i class="fa-solid fa-person-military-to-person fs-2 text-danger"></i>
-                  <h4>Satış-Danışmanı</h4>
-                  <p class="text-muted">İnsan İlişkilerinde gayet iyiyim</p>
-                  <hr style={{color:"red",width:"80%"}} class="m-auto "/>
-                </div>
-                <div id="deneyim" class="mb-4 text-center">
-                  <i class="fa-solid fa-couch fs-2 text-danger"></i>
-                  <h4>Montaj-Ustası</h4>
-                  <p class="text-muted">Mobilya Montaj Konusunda Deneyimliyim</p>
-                  <hr style={{color:"red",width:"80%"}}class="m-auto "/>
-                </div>
+               
               </div>
             </div>
           </div>
