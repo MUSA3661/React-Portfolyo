@@ -16,7 +16,7 @@ export default function Section5() {
                <legend class="fs-3  fw-bold text-white">İLETİŞİM</legend>
                <input class="form-control mb-2" type="text" placeholder="Ad-Soyad" required/>
                <input class="form-control mb-2" type="email" placeholder="E-Posta"/>
-               <textarea  cols="60%" rows="10" placeholder="Mesajınızı Buraya Giriniz"></textarea>
+               <textarea  cols="100%" rows="10" placeholder="Mesajınızı Buraya Giriniz"></textarea>
                <input class="form-control mb-2 bg-danger text-white" type="submit" value="GÖNDER"/>
              </fieldset>
            </form>
