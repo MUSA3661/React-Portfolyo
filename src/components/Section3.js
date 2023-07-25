@@ -4,7 +4,7 @@ export default function Section3() {
   return (
     <div className='containers container-fluid'>
           <div id="projeler" class="row ">
-          <h1  class="baslık text-center fw-bold">Projeler</h1>
+          <h1  class="baslık text-center fw-bold">PROJELER</h1>
           <div class="section3-responsive col-md-6 mb-5 ">
             <div class="section3-kart mx-auto">
               <img src="img/exxen-tv-klon.jpg" alt="exxen-klon"/>
