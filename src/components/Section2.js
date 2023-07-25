@@ -5,7 +5,7 @@ export default function Section2() {
     <div className='containers container-fluid'>
      <div class="row">
           <h1  class="baslık text-center fw-bold">DENEYİM</h1>
-          <div class="col-md-4">
+          <div class="col-md-12">
              <div class="row">
                <div class="col">
                 <h1  class="baslık text-center fw-bold">Beceriler</h1>
@@ -41,90 +41,7 @@ export default function Section2() {
                </div>
              </div>
           </div>
-          <div class="col-md-8">
-            <div class="row">
-              <h1  class="baslık text-center fw-bold">Yazılımsal-Sözler</h1>
-              <div class=" col-4 section2-right mb-5">
-                 <div class="kart ">
-                  <div class="on-taraf kutu text-center text-white fs-5 fw-bold">
-                    <img src="img/Bill Gates.jpg" alt="Bill Gates"/>
-                    <p>BİLL GATES</p>
-                  </div>
-                  <div class="arka-taraf kutu">
-                    <div class="bilgi">
-                      <h3>Yazılım, sanat ve mühendislik arasında harika bir kombinasyondur.</h3>
-                    </div>
-                  </div>
-                 </div>
-              </div>
-              <div class=" col-4 section2-right mb-5">
-                 <div class="kart ">
-                  <div class="on-taraf kutu text-center text-white fs-5 fw-bold">
-                    <img src="img/Steve Jobs.jpg" alt="STEVE JOBS"/>
-                    <p>STEVE JOBS</p>
-                  </div>
-                  <div class="arka-taraf kutu">
-                    <div class="bilgi">
-                      <h3>Başladığımızda yazılımı nasıl heceleyeceğimizi bilmiyorduk.</h3>
-                    </div>
-                  </div>
-                 </div>
-              </div>
-              <div class=" col-4 section2-right mb-5">
-                 <div class="kart ">
-                  <div class="on-taraf kutu text-center text-white fs-5 fw-bold">
-                    <img src="img/Jessica-Gaston.jpg" alt="JESSİCA GASTON"/>
-                    <p>JESSİCA GASTON</p>
-                  </div>
-                  <div class="arka-taraf kutu">
-                    <div class="bilgi">
-                      <h3>Bir adamın berbat yazılımı, diğerinin tam zamanlı işidir.</h3>
-                    </div>
-                  </div>
-                 </div>
-              </div>
-              <div class=" col-4 section2-right mb-5">
-                 <div class="kart ">
-                  <div class="on-taraf kutu text-center text-white fs-5 fw-bold">
-                    <img src="img/Joel-Spolsky.jpg" alt="JOEL SPOLSKY"/>
-                    <p>JOEL SPOLSKY</p>
-                  </div>
-                  <div class="arka-taraf kutu">
-                    <div class="bilgi">
-                      <h3>Şarap gibi iyi bir yazılım zaman alır.</h3>
-                    </div>
-                  </div>
-                 </div>
-              </div>
-              <div class=" col-4 section2-right mb-5">
-                 <div class="kart ">
-                  <div class="on-taraf kutu text-center text-white fs-5 fw-bold">
-                    <img src="img/ERDEM_HOCA.jpg" alt="ERDEM SABRİ BEŞİK"/>
-                    <p>ERDEM SABRİ BEŞİK</p>
-                  </div>
-                  <div class="arka-taraf kutu">
-                    <div class="bilgi">
-                      <h3>Yazdığın kod çalışıyorsa,fazla kurcalama. :):)</h3>
-                    </div>
-                  </div>
-                 </div>
-              </div>
-              <div  class=" col-4 section2-right mb-5">
-             
-                 <div class="kart ">
-                  <div class="on-taraf kutu text-center text-white fs-5 fw-bold">
-                    <img src="img/Alan-Perlis.jpg" alt="ALAN PERLİS"/>
-                    <p>ALAN PERLİS</p>
-                  </div>
-                  <div class="arka-taraf kutu">
-                    <div class="bilgi">
-                      <h3>Hatasız program yazmanın iki yolu vardır; sadece üçüncüsü çalışıyor.</h3>
-                    </div>
-                  </div>
-                 </div>
-              </div>
-            </div>
-          </div>
+          
          </div>
     </div>
   )
