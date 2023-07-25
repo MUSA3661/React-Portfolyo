@@ -83,7 +83,7 @@ Yakın zamanda sizden olumlu haberler almayı diliyorum.
               <div class="">
                 <div class="mb-4 text-center">
                   <i class="fa-brands fa-connectdevelop fs-2 text-danger"></i>
-                  <h4>Web-Developer</h4>
+                  <h4>Jr.Web-Developer</h4>
                   <p class="text-muted"></p>
                   <hr style={{color:"red",width:"80%"}} class="m-auto "/>
                 </div>
