@@ -4,11 +4,11 @@ export default function Section2() {
   return (
     <div className='containers container-fluid'>
      <div class="row">
-          <h1  class="baslık text-center fw-bold">DENEYİM</h1>
+          <h1  class="baslık text-center fw-bold">BECERİLER</h1>
           <div class="col-md-8 m-auto">
              <div class="row">
                <div class="col">
-                <h1  class="baslık text-center fw-bold">Beceriler</h1>
+               
                 <i class="text-white">HTML</i>
                 <div  data-aos-duration="500" class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
                   <div class="progress-bar bg-success" style={{width:" 90%"}}></div>
