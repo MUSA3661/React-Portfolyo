@@ -5,7 +5,7 @@ export default function Section2() {
     <div className='containers container-fluid'>
      <div class="row">
           <h1  class="baslık text-center fw-bold">DENEYİM</h1>
-          <div class="col-md-12">
+          <div class="col-md-8 m-auto">
              <div class="row">
                <div class="col">
                 <h1  class="baslık text-center fw-bold">Beceriler</h1>
