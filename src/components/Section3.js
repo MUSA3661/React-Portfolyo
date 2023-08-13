@@ -5,7 +5,19 @@ export default function Section3() {
     <div className='containers container-fluid'>
           <div id="projeler" class="row ">
           <h1  class="baslık text-center fw-bold">PROJELER</h1>
-          <div class="section3-responsive col-md-6 mb-5 ">
+          <div class="section3-responsive col-md-4 mb-5 ">
+            <div class="section3-kart mx-auto">
+              <img src="img/weather.png" alt="weather-resim"/>
+              <div class="overlay">
+                <div class="overlay-text">
+                  <h2>Weather Site</h2>
+                  <p>REACT-HTML-CSS-BOOTSTRAP KULLANARAK YAPTIĞIM. APİ'DEN ŞEHİR DATALARINI ÇEKİP EKRANA BASTIRDIĞIMIZ UFAK ÇAPLI PROJE. </p>
+                  <a target="_blank" href=" https://musayildirim-weather.netlify.app">PROJEYE GİT<i class="fa-sharp fa-solid fa-arrow-right-to-bracket"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+           <div class="section3-responsive col-md-4 mb-5 ">
             <div class="section3-kart mx-auto">
               <img src="img/exxen-tv-klon.jpg" alt="exxen-klon"/>
               <div class="overlay">
@@ -17,7 +29,7 @@ export default function Section3() {
               </div>
             </div>
           </div>
-          <div class="section3-responsive col-md-6 mb-5 m">
+          <div class="section3-responsive col-md-4 mb-5 m">
             <div class="section3-kart mx-auto">
               <img src="img/netflix-klon.jpg" alt="netflix-klon"/>
               <div class="overlay">
@@ -31,7 +43,7 @@ export default function Section3() {
           </div>
         </div>
       <div class="row">
-        <div class="section3-responsive col-md-6 mb-5 ">
+        <div class="section3-responsive col-md-4 mb-5 ">
           <div class="section3-kart mx-auto">
             <img src="img/e-ticarett.png" alt="E-Ticaret"/>
             <div class="overlay">
@@ -43,7 +55,7 @@ export default function Section3() {
             </div>
           </div>
         </div>
-        <div class="section3-responsive col-md-6 mb-5 ">
+        <div class="section3-responsive col-md-4 mb-5 ">
           <div class="section3-kart mx-auto">
             <img src="img/yemek-sitesi-klon.jpg" alt="yemek-klon"/>
             <div class="overlay">
