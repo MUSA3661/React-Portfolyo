@@ -40,7 +40,7 @@ export default function Header() {
             <div className="text h-100 w-100 d-flex flex-column justify-content-center align-items-center">
               <h3 className="text-white fs-2">Merhaba,Ben</h3>
               <h1 className="text-white fs-1 fw-bold mb-4">Musa Nur Yıldırım</h1>
-              <h5 className="text-anime">Full-Stack Web Developer_</h5>
+              <h5 className="text-anime">Jr.Frontend Developer_</h5>
             </div>
           </div>
         </div>
